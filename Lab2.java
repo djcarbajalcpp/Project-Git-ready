@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Lab2 {
     // we must have a main method to run the program
     public static void main(String[] args) {
-
+//adding comment
         // declare variables of different types:
         String firstName = "";
         String lastName = "";
