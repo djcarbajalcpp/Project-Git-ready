@@ -1,4 +1,4 @@
 #David Carbajal
 #https://github.com/djcarbajalcpp/Project-Git-ready.git
-the link to your screencast video on cloud (vimeo, youtube, etc.).
+https://www.youtube.com/watch?v=8d2YyJECs2Q
 Eclipse IDE for Java
